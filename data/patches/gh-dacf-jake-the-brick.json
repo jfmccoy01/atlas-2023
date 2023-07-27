@@ -1,0 +1,36 @@
+{
+	"id": -1,
+	"name": "Jake the Brick",
+	"description": "Jake the Dog of Adventure Time as a brick, from the episode \"Jake the Brick\" (Season 6 episode 20)",
+	"links": {
+		"website": [
+			"https://adventuretime.fandom.com/wiki/Jake_The_Brick"
+		]
+	},
+	"path": {
+		"229-250": [
+			[
+				-1190,
+				89
+			],
+			[
+				-1176,
+				89
+			],
+			[
+				-1176,
+				99
+			],
+			[
+				-1190,
+				99
+			]
+		]
+	},
+	"center": {
+		"229-250": [
+			-1183,
+			94
+		]
+	}
+}
